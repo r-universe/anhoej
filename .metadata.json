@@ -1,0 +1,10 @@
+[
+  {
+    "package": "cprr",
+    "oncran": true
+  },
+  {
+    "package": "qicharts2",
+    "oncran": true
+  }
+]
