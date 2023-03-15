@@ -8,6 +8,11 @@
 	url = https://github.com/anhoej/cprr
 	shallow = true
 	registered = true
+[submodule "qicharts"]
+	path = qicharts
+	url = https://github.com/anhoej/qicharts
+	shallow = true
+	registered = true
 [submodule "qicharts2"]
 	path = qicharts2
 	url = https://github.com/anhoej/qicharts2

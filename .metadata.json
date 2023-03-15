@@ -4,6 +4,10 @@
     "oncran": true
   },
   {
+    "package": "qicharts",
+    "oncran": true
+  },
+  {
     "package": "qicharts2",
     "oncran": true
   }
