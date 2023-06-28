@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "cprr"]
 	path = cprr
 	url = https://github.com/anhoej/cprr
-	shallow = true
-	registered = true
 [submodule "qicharts"]
 	path = qicharts
 	url = https://github.com/anhoej/qicharts
-	shallow = true
-	registered = true
 [submodule "qicharts2"]
 	path = qicharts2
 	url = https://github.com/anhoej/qicharts2
-	shallow = true
-	registered = true
